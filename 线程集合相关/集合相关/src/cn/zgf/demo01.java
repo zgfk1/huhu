@@ -11,5 +11,7 @@ public class demo01 {
         Map<String,String> map = new HashMap<>(0);
         System.out.println("99");
 
+        System.out.println("今天的天气很糟糕");
+
     }
 }
